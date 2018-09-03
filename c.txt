@@ -1,0 +1,2 @@
+master
+Ny fil på master gren, efter att extra branch skapats
